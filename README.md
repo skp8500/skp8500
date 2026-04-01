@@ -22,7 +22,7 @@ Hi, I'm **Shiv Kumar**, a BTech student in Electronics & Communication Engineeri
 
 # 🧠 Coding Profiles & Achievements:
 - **LeetCode**: [redd1t](https://leetcode.com/redd1t) (Rating: 1671)
-- **Codeforces**: [kurttzxc04](https://codeforces.com/profile/kurttzxc40) (Rating: 1083)
+- **Codeforces**: [kurttzxc40](https://codeforces.com/profile/kurttzxc40) (Rating: 1060)
 - **CodeChef**: [spry_shade_98](https://www.codechef.com/users/spry_shade_98) (Rating: 1114)
 
 # 📊 GitHub Stats:
