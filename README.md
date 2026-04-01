@@ -21,9 +21,9 @@ Hi, I'm **Shiv Kumar**, a BTech student in Electronics & Communication Engineeri
 - 🔗 Live: https://dijkstras-algo.netlify.app/
 
 # 🧠 Coding Profiles & Achievements:
-- **LeetCode**: redd1t (Rating: 1751)
-- **Codeforces**: kurttzxc04 (Rating: 1160)
-- **CodeChef**: spry_shade_98 (Rating: 1540)
+- **LeetCode**: [redd1t](https://leetcode.com/redd1t) (Rating: 1671)
+- **Codeforces**: [kurttzxc04](https://codeforces.com/profile/kurttzxc04) (Rating: 1083)
+- **CodeChef**: [spry_shade_98](https://www.codechef.com/users/spry_shade_98) (Rating: 1114)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skp8500&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
