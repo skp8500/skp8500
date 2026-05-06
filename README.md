@@ -36,6 +36,14 @@ Hi, I'm **Shiv Kumar**, a BTech student in Electronics & Communication Engineeri
 - **Codeforces**: [kurttzxc40](https://codeforces.com/profile/kurttzxc40) (Rating: 1060)
 - **CodeChef**: [spry_shade_98](https://www.codechef.com/users/spry_shade_98) (Rating: 1540)
 
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skp8500/skp8500/output/github-snake.svg"/>
+</p>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skp8500&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skp8500&theme=react&hide_border=false)<br/>
@@ -49,5 +57,11 @@ Hi, I'm **Shiv Kumar**, a BTech student in Electronics & Communication Engineeri
 
 ---
 [![](https://visitcount.itsvg.in/api?id=skp8500&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skp8500&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
