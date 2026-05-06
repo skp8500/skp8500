@@ -39,7 +39,7 @@ Hi, I'm **Shiv Kumar**, a BTech student in Electronics & Communication Engineeri
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skp8500/skp8500/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/skp8500/skp8500/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
