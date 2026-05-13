@@ -63,10 +63,8 @@ Hi, I'm **Shiv Kumar**, a BTech student in Electronics & Communication Engineeri
 
 ### GitHub PacMan
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pac-contributions.vercel.app/api/skp8500?theme=dark" />
-  <img alt="pacman contributions" src="https://pac-contributions.vercel.app/api/skp8500?theme=light" />
-</picture>
+<img alt="Pac-Man contribution graph"
+     src="https://raw.githubusercontent.com/skp8500/PAC-CONTRIBUTIONS/output/pacman-dark.svg" />
 
 ---
 
