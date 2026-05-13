@@ -1,0 +1,21 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: skp8500/PAC-CONTRIBUTIONS@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
